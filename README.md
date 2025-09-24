@@ -1,6 +1,4 @@
 # IMDB Movie Analytics (SQL)
-
-## Overview
 Analyzed IMDB datasets using MySQL to provide insights and recommendations for RSVP Movies on profitable genres, directors, and actors.
 
 ## Tech Stack
